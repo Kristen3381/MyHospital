@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyHospital</string>
+    <string name="phone_number_e_g_0712345678">Phone Number (e.g., 0712345678)</string>
+    <string name="register_patient">Register Patient</string>
+    <string name="patient_registration">Patient Registration</string>
+    <string name="patient_name">Patient Name</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="welcome_to_my_hospital">Welcome to My Hospital</string>
+    <string name="your_health_our_priority_click_the_button_below_to_register_as_a_new_patient">Your health, our priority. Click the button below to register as a new patient.</string>
+    <string name="register_new_patient">Register New Patient</string>
+    <string name="patient_registration1">Patient Registration</string>
+    <string name="patient_name1">Patient Name</string>
+    <string name="age1">Age</string>
+    <string name="gender1">Gender:</string>
+    <string name="male1">Male</string>
+    <string name="female1">Female</string>
+    <string name="phone_number_e_g_0710392608">Phone Number (e.g.,0710392608)</string>
+    <string name="register_patient1">Register Patient</string>
+</resources>
